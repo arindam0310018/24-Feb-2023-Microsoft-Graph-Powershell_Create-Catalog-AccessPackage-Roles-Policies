@@ -1,6 +1,6 @@
-##############
+###############
 # VARIABLES:- 
-##############
+###############
 $CatalogName = "AM-LAB"
 $CatalogDesc = "AM Lab Environment Catalog"
 $AADGroupname = "AM-Lab-OpsSupport"
