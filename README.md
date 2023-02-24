@@ -488,7 +488,6 @@ __NOW ITS TIME TO TEST:-__
 | 10. Validate Assignment of a test user to the AAD Group using Access Package:- |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mqa16rx7c28p4rtinbag.jpg) |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0982mbgcncvf0jby7jaz.jpg) |
-| ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xvbnnvwz7qbvoi3cwrre.png) |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cr2kx6rcowct04thhdwc.jpg) |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8zzs18duxuglvyisguws.jpg) |
 
