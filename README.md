@@ -1,4 +1,4 @@
-# BLOG POST COMING SOON:-
+# Automate Entitlement Management in Azure AD Identity Governance using Microsoft Graph Powershell:-
 
 Greetings to my fellow Technology Advocates and Specialists.
 
