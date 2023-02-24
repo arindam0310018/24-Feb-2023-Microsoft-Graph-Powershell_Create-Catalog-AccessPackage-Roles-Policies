@@ -1,0 +1,61 @@
+******************
+Create Catalog:-
+******************
+https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-catalog-create#create-a-catalog-programmatically
+
+
+**************************************************************************************************
+Manage access to resources in Azure AD entitlement management using Microsoft Graph PowerShell:-
+**************************************************************************************************
+https://learn.microsoft.com/en-us/powershell/microsoftgraph/tutorial-entitlement-management?view=graph-powershell-1.0
+
+
+***************************************************************************************
+https://learn.microsoft.com/en-us/graph/tutorial-access-package-api?tabs=powershell:-
+***************************************************************************************
+https://learn.microsoft.com/en-us/graph/tutorial-access-package-api?tabs=powershell
+
+
+*********************************************
+Entitlement Management Role Definition ID:-
+*********************************************
+https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-delegate
+
+
+***************************************************************
+Create a role assignment with access package catalog scope:-
+***************************************************************
+https://learn.microsoft.com/en-us/graph/api/rbacapplication-post-roleassignments?view=graph-rest-1.0&tabs=powershell
+
+
+*******************************************
+Create Access Package Assignment Policy:-
+*******************************************
+https://learn.microsoft.com/en-us/graph/api/entitlementmanagement-post-assignmentpolicies?view=graph-rest-1.0&tabs=powershell
+
+
+***********************************************
+AccessPackageAssignmentPolicy Resource Type:-
+***********************************************
+https://learn.microsoft.com/en-us/graph/api/resources/accesspackageassignmentpolicy?view=graph-rest-1.0
+
+
+***********************************
+RequestorSettings Resource Type:-
+***********************************
+https://learn.microsoft.com/en-us/graph/api/resources/requestorsettings?view=graph-rest-beta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
