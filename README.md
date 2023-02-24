@@ -8,7 +8,7 @@ In this Session, I will demonstrate __How to create Catalog and Access Package i
 | __AUTOMATION OBJECTIVES:-__ |
 | --------- |
 
-| __S-No.__ | __TOPICS__ |
+| __#__ | __TOPICS__ |
 | --------- | --------- |
 |  1. | Create a Catalog. |
 |  2. | Add an existing Azure Active Directory (AAD) Group as an Resource in the Catalog. |
