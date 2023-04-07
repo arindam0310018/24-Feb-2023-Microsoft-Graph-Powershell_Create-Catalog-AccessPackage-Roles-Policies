@@ -6,14 +6,22 @@ In this Session, I will demonstrate __How to create Catalog and Access Package i
 
 I had the Privilege to talk on this topic in __ONE__ Azure Communities:-
 
+I had the Privilege to talk on this topic in __TWO__ Azure Communities:-
+
 | __NAME OF THE AZURE COMMUNITY__ | __TYPE OF SPEAKER SESSION__ |
 | --------- | --------- |
 | __Azure Spring Clean 2023__ | __Virtual__ |
+| __Cloud Lunch and Learn__ | __Virtual__ |
 
 
-| __EVENT ANNOUNCEMENT:-__ |
+| __EVENT ANNOUNCEMENTS:-__ |
 | --------- |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wvgh4cxe8ll54cxbwqlm.png) |
+| ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uoicxb7e4oavxemqe9fj.JPG) |
+| __VIRTUAL SESSION:-__ |
+| __LIVE DEMO__ was Recorded as part of my Presentation in __CLOUD LUNCH AND LEARN__ Forum/Platform |
+| Duration of My Demo = __53 Mins 28 Secs__ |
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pgntkqvm0cY/0.jpg)](https://www.youtube.com/watch?v=pgntkqvm0cY) |
 
 
 | __AUTOMATION OBJECTIVES:-__ |
