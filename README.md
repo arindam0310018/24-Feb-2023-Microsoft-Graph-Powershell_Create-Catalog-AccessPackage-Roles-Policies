@@ -15,7 +15,6 @@ I had the Privilege to talk on this topic in __TWO__ Azure Communities:-
 | --------- |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wvgh4cxe8ll54cxbwqlm.png) |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uoicxb7e4oavxemqe9fj.JPG) |
-
 | __VIRTUAL SESSION:-__ |
 | __LIVE DEMO__ was Recorded as part of my Presentation in __CLOUD LUNCH AND LEARN__ Forum/Platform |
 | Duration of My Demo = __53 Mins 28 Secs__ |
